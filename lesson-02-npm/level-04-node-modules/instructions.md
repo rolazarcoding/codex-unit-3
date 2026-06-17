@@ -11,11 +11,11 @@ Built-in NodeJS modules increase productivity by allowing developers to reuse st
 ## Complete these tasks
 
 1. In `script.js`, import `cpus`, `totalmem`, `freemem`, `machine`, and `platform` from `node:os`.
-2. Use those functions and save their values in descriptive variables.
+2. Use those functions and save their return values in descriptive variables.
 3. Use `console.log` to display the value of each variable.
 4. In the terminal, navigate to this folder and run `script.js`
 5. In `script.js`, import `resolve` and `parse` from `node:path`.
-6. Use the functions and save their values in descriptive variables.
+6. Use the functions and save their return values in descriptive variables.
 7. Use `console.log` to display the value of each variable.
 8. Run `script.js`
 
