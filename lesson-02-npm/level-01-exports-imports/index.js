@@ -6,3 +6,8 @@ import names from "./names.js";
 greet("Frontend Developer");
 stats(3, 7);
 showNames(names);
+
+console.log(
+  "\n",
+  "Exporting and importing code separates them into smaller, readable files.",
+);
